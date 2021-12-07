@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Molor-Git
 - 👀 I’m interested in becoming an FullStack Developer.
 - 🌱 I’m currently learning FullStack Development at "Coding Dojo" Bootcamp.
--  Contact me: linkedin.com/in/molorerdene
+-  Contact me: linkedin.com/in/molorerdene-erdene-811868201 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
