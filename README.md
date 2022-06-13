@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Molor-Git
-- 👀 I’m a FullStack Developer.
+- 👀 I’m a Full-Stack Developer.
 - 🌱 I’m recently graduated as FullStack Developer from Coding Dojo Bootcamp.
 -  Contact me: www.linkedin.com/in/molorerdene
 <!-- - 💞️ I’m looking to collaborate on ... -->
