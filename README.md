@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Molor-Git
-- 🌱 I'm a aspiring Cybersecurity Analyst who obtained google cybersecurity professional certificate and also graduated from Coding Dojo Bootcamp as a FullStack Developer.
+- 🌱 I'm an aspiring Cybersecurity Analyst who obtained google cybersecurity professional certificate and also graduated from Coding Dojo Bootcamp as a FullStack Developer.
 -  Contact me: www.linkedin.com/in/molorerdene
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
